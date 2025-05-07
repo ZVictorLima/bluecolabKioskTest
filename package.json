@@ -2,7 +2,7 @@
   "name": "react-kiosk",
   "version": "0.0.1",
   "private": false,
-  "homepage": "https://bluecolab.github.io/react-kiosk",
+  "homepage": "https://zvictorlima.github.io/bluecolabKioskTest/",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
